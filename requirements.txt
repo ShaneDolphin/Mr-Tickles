@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+spacy
+google-cloud-storage
+Pillow
+pdfminer.six
+pdf2image
