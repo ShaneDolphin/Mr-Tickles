@@ -31,7 +31,7 @@ MR TICKLES is a document scanning and ingestion application designed to assist u
 ## Installation
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/mr-tickles.git](https://github.com/ShaneDolphin/Mr-Tickles.git
+git clone https://github.com/ShaneDolphin/Mr-Tickles.git
 cd mr-tickles
 ```
 **2. Set Up Google Cloud Credentials**
